@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on PROJECTS
 - 📫 How to reach me manikantaganduri.me@gmail.com
 - 😄 Pronouns: rn
-- ⚡ Fun fact: ...
 
 <!---
 Aryan-hpv/Aryan-hpv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
