@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Aryan-hpv
-- 👀 I’m interested in GEN AI 
-- 🌱 I’m currently learning AI&ML
-- 💞️ I’m looking to collaborate on PROJECTS
+- 👋 Hi, I’m MANIKANTA GANDURI 
+- 👀 currently focussing on aws , cloud and devops 
 - 📫 How to reach me manikantaganduri.me@gmail.com
-- 😄 Pronouns: rn
 
 <!---
 Aryan-hpv/Aryan-hpv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
