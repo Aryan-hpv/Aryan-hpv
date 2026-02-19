@@ -1,0 +1,18 @@
+AMAZON EC2 configuration 
+creating a pem file in ec2 and download (example.pem) 
+now open the command prompt on your device 
+now change the server folder where your.PEM file is downloaded 
+by this command ssh -i filename.pem ubuntu@ec2ip address 
+
+SUCCESSFUL LOGIN TO YOUR AMAZON EC2 
+
+
+update your ubuntu server 
+steps:- 
+sudo apt update (step 1)
+sudo apt update -y 
+
+server is successfully updated to new veesion 
+to check lsb_release -a
+
+  aws EC2 is accessed AND SERVER is UPDATED  
